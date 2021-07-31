@@ -1,7 +1,7 @@
 name: dart_ipfs_client
 description: A client library for the IPFS HTTP API.
 version: 0.0.1
-homepage: https://github.com/ngngardner/dart_ipfs_client
+homepage: https://github.com/hackyguru/IPFS-Flutter
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
