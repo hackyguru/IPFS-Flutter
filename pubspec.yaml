@@ -1,0 +1,19 @@
+name: dart_ipfs_client
+description: A client library for the IPFS HTTP API.
+version: 0.0.1
+homepage: https://github.com/ngngardner/dart_ipfs_client
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  chopper: ^3.0.6
+  json_annotation: ^3.1.0
+  json_serializable: ^3.3.0
+
+dev_dependencies:
+  build_runner: ^1.0.0
+  chopper_generator: ^3.0.6
+  logging: ^0.11.4
+  pedantic: ^1.9.0
+  test: ^1.14.4
